@@ -24,7 +24,7 @@ This is a Sales Insights Dashboard in PowerBI and Amazon Athena as Data Source.
 ### Radar Dashboard 
 <img width="1835" height="904" alt="Radar" src="https://github.com/user-attachments/assets/4e219e5b-d6e1-4b8a-87fc-a583a5cf888f" />
 
-<img width="1830" height="897" alt="Approach-2" src="https://github.com/user-attachments/assets/09fe86d6-b1ae-40f3-9c38-f44da50ba6a5" />
+<img width="1836" height="897" alt="Approach-2" src="https://github.com/user-attachments/assets/4bf320ef-e5a6-4f73-bc78-b307ec20e512" />
 
 ### Sales by Genre/Year Dashboard
 <img width="1832" height="898" alt="SalesBy-Genre-Year-M" src="https://github.com/user-attachments/assets/216091bd-1731-44da-9593-270b6eda1901" />
